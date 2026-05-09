@@ -1,0 +1,15 @@
+{
+  "name": "web-search",
+  "version": "0.1.0",
+  "description": "Web search tool using DuckDuckGo",
+  "type": "mcp",
+  "mcp": {
+    "command": "node",
+    "args": ["index.js"]
+  },
+  "capabilities": {
+    "tools": ["web_search"],
+    "commands": [],
+    "hooks": []
+  }
+}
