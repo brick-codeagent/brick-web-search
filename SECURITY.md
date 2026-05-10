@@ -6,7 +6,10 @@ We take the security of Brick seriously. If you believe you have found a securit
 
 **Please do not report security vulnerabilities through public GitHub issues.**
 
-Instead, please report them via email to [INSERT EMAIL] or use GitHub's private vulnerability reporting feature.
+Instead, please use **GitHub's private vulnerability reporting** feature at:
+https://github.com/brick-codeagent/web-search/security/advisories
+
+If you cannot use the private reporting feature, please reach out via the organization's GitHub Discussions or open a draft security advisory.
 
 You should receive a response within 48 hours. If for some reason you do not, please follow up to ensure we received your original message.
 
