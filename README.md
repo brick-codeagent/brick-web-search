@@ -1,5 +1,9 @@
 # Brick Web Search Extension
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/brick-codeagent/brick-web-search/actions/workflows/ci.yml/badge.svg)](https://github.com/brick-codeagent/brick-web-search/actions/workflows/ci.yml)
+[![Node.js](https://img.shields.io/badge/node-%3E%3D20-brightgreen)](package.json)
+
 A Brick extension that adds web search capability via DuckDuckGo.
 
 ## Installation

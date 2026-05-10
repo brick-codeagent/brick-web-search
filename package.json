@@ -4,5 +4,9 @@
   "description": "Brick extension: web search via DuckDuckGo",
   "type": "module",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --check index.js"
+  }
 }

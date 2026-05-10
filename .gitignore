@@ -3,3 +3,10 @@ node_modules/
 *.log
 .DS_Store
 package-lock.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
